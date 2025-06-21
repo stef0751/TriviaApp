@@ -18,7 +18,13 @@ The following functionality is completed:
 - [X] User should be able to restart the game after they've finished answering all questions
 
 ## Video Walkthrough
-
+<div>
+    <a href="https://www.loom.com/share/510e2b414f484d168093bcca16b808ea">
+    </a>
+    <a href="https://www.loom.com/share/510e2b414f484d168093bcca16b808ea">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/510e2b414f484d168093bcca16b808ea-681568bf2aa6b9c6-full-play.gif">
+    </a>
+  </div>
 
 
 ## License
