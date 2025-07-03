@@ -1,4 +1,4 @@
-# Project 3 - *Trivia App*
+# Project 4 - *Trivia App*
 
 Submitted by: Steffina Jerald
 
@@ -16,13 +16,15 @@ The following functionality is completed:
 - [X] User can track the question they are on and how many questions are left
 - [X] User can see how many questions they got correct after answering all questions
 - [X] User should be able to restart the game after they've finished answering all questions
+- [X] App retrieves question data from the Open Trivia Database API.
 
 ## Video Walkthrough
-<div>
-    <a href="https://www.loom.com/share/510e2b414f484d168093bcca16b808ea">
+
+  <div>
+    <a href="https://www.loom.com/share/b046226f7c7240788dffe02b01203653">
     </a>
-    <a href="https://www.loom.com/share/510e2b414f484d168093bcca16b808ea">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/510e2b414f484d168093bcca16b808ea-681568bf2aa6b9c6-full-play.gif">
+    <a href="https://www.loom.com/share/b046226f7c7240788dffe02b01203653">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b046226f7c7240788dffe02b01203653-567f9283dc828577-full-play.gif">
     </a>
   </div>
 
